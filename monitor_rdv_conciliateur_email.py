@@ -34,8 +34,8 @@ LOG_FILE = Path("rdv_monitor.log")
 
 # Message officiel d’indisponibilité
 NEGATIVE_PHRASE_FULL = (
-    "Aucun rendez-vous n'est actuellement disponible."
-    "De nouveaux rendez-vous seront proposés prochainement sur cette page."
+    " Aucun rendez-vous n'est actuellement disponible."
+    " De nouveaux rendez-vous seront proposés prochainement sur cette page."
 )
 
 # Marqueurs génériques au cas où le texte évoluerait
