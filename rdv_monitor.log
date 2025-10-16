@@ -1,0 +1,20 @@
+[2025-10-16 20:03:39] Surveillance démarrée
+[2025-10-16 20:03:46] Aucune disponibilité détectée.
+[2025-10-16 20:04:54] Aucune disponibilité détectée.
+[2025-10-16 20:06:21] Aucune disponibilité détectée.
+[2025-10-16 20:06:26] Arrêt demandé
+[2025-10-16 20:07:22] Surveillance démarrée
+[2025-10-16 20:07:27] Aucune disponibilité détectée.
+[2025-10-16 20:09:08] Aucune disponibilité détectée.
+[2025-10-16 20:09:17] Arrêt demandé
+[2025-10-16 20:10:53] Surveillance démarrée
+[2025-10-16 20:10:58] Aucune disponibilité détectée.
+[2025-10-16 20:11:02] Arrêt demandé
+[2025-10-16 20:11:08] Surveillance démarrée
+[2025-10-16 20:11:18] Erreur: (535, b'5.7.139 Authentication unsuccessful, basic authentication is disabled. [PAZP264CA0252.FRAP264.PROD.OUTLOOK.COM 2025-10-16T18:11:07.110Z 08DE0C6515B09417]')
+[2025-10-16 20:12:16] Erreur: (535, b'5.7.139 Authentication unsuccessful, basic authentication is disabled. [PR1P264CA0130.FRAP264.PROD.OUTLOOK.COM 2025-10-16T18:12:16.056Z 08DE0C46416CB73E]')
+[2025-10-16 20:12:21] Arrêt demandé
+[2025-10-16 20:20:24] Surveillance démarrée
+[2025-10-16 20:20:30] Email d’alerte envoyé.
+[2025-10-16 20:20:54] Disponibilités déjà signalées. Pas de nouvel email.
+[2025-10-16 20:21:41] Arrêt demandé
