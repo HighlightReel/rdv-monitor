@@ -1,3 +1,3 @@
 #!/bin/bash
 pip install -r requirements.txt
-python -m playwright install chromium
+python3 -m playwright install chromium
