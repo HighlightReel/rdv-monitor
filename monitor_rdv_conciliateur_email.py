@@ -24,9 +24,9 @@ URL = (
 )
 
 # Intervalle moyen entre deux vérifications
-BASE_POLL_SEC = 45
+BASE_POLL_SEC = 60
 # Petite gigue pour ne pas interroger à rythme fixe
-JITTER_SEC = 25
+JITTER_SEC = 10
 
 # Fichiers locaux
 STATE_FILE = Path("rdv_seen_state.txt")
@@ -34,7 +34,7 @@ LOG_FILE = Path("rdv_monitor.log")
 
 # Message officiel d’indisponibilité
 NEGATIVE_PHRASE_FULL = (
-    " Aucun rendez-vous n'est actuellement disponible."
+    " Aucune rendez-vous n'est actuellement disponible."
     " De nouveaux rendez-vous seront proposés prochainement sur cette page."
 )
 
